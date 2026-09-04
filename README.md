@@ -1,5 +1,4 @@
-# Perforaciones--Kary
-Web oficial de Estudio de Piercing Perforaciones Kary
+# Perforaciones Kary
 <!doctype html>
 <html lang="es">
 <head>
